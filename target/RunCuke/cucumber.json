@@ -1,0 +1,96 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5329019100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUP()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should navigate to login page successfully",
+        "description": "",
+        "id": "login-test;user-should-navigate-to-login-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 727247800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 77102400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on homepage",
+            "match": {
+              "location": "LoginPageSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1115494300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on login link",
+            "match": {
+              "location": "LoginPageSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 38793700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should able to see \"Welcome, Please Sign In!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Welcome, Please Sign In!",
+                  "offset": 22
+                }
+              ],
+              "location": "LoginPageSteps.iShouldAbleToSee(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@smoke"
+          },
+          {
+            "line": 3,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Login Test",
+    "description": "As a user I want to login into nop commerce website",
+    "id": "login-test",
+    "keyword": "Feature",
+    "uri": "Login.feature"
+  }
+]
