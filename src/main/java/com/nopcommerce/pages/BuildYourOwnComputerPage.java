@@ -11,9 +11,7 @@ import org.testng.Reporter;
 
 import java.util.List;
 
-/**
- * By Nidhi Patel
- **/
+
 
 public class BuildYourOwnComputerPage extends Utility {
 

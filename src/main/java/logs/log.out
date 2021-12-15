@@ -1,0 +1,103 @@
+2021-12-15 17:12:296 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:648 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:390 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:163 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (f967bd4c44bd4765437fd341706ca87c)] -> link text: Log in]
+2021-12-15 17:12:190 INFO  BuildYourOwnComputerPage :35 - click on cartButton [[ChromeDriver: chrome on WINDOWS (f967bd4c44bd4765437fd341706ca87c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-15 17:12:899 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:339 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (3fb7a826de85a271f818e4f54b47bbf0)] -> link text: Log in]
+2021-12-15 17:12:533 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (3fb7a826de85a271f818e4f54b47bbf0)] -> id: Email]
+2021-12-15 17:12:682 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (3fb7a826de85a271f818e4f54b47bbf0)] -> name: Password]
+2021-12-15 17:12:761 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (3fb7a826de85a271f818e4f54b47bbf0)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:785 INFO  BuildYourOwnComputerPage :65 - verify error message  [[ChromeDriver: chrome on WINDOWS (3fb7a826de85a271f818e4f54b47bbf0)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-15 17:12:680 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:751 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (e5359404c1f3fd412df4cdd07c8b2c15)] -> link text: Log in]
+2021-12-15 17:12:852 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (e5359404c1f3fd412df4cdd07c8b2c15)] -> id: Email]
+2021-12-15 17:12:955 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (e5359404c1f3fd412df4cdd07c8b2c15)] -> name: Password]
+2021-12-15 17:12:982 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (e5359404c1f3fd412df4cdd07c8b2c15)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:07 INFO  BuildYourOwnComputerPage :65 - verify error message  [[ChromeDriver: chrome on WINDOWS (e5359404c1f3fd412df4cdd07c8b2c15)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-15 17:12:54 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:689 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (67bccf5ad7fc35f819714cf0e80c2719)] -> link text: Log in]
+2021-12-15 17:12:792 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (67bccf5ad7fc35f819714cf0e80c2719)] -> id: Email]
+2021-12-15 17:12:897 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (67bccf5ad7fc35f819714cf0e80c2719)] -> name: Password]
+2021-12-15 17:12:369 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (67bccf5ad7fc35f819714cf0e80c2719)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:399 INFO  BuildYourOwnComputerPage :65 - verify error message  [[ChromeDriver: chrome on WINDOWS (67bccf5ad7fc35f819714cf0e80c2719)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-15 17:12:870 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:581 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (fb301893ad4f5c6abd1726c570c2e2e5)] -> link text: Log in]
+2021-12-15 17:12:721 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (fb301893ad4f5c6abd1726c570c2e2e5)] -> id: Email]
+2021-12-15 17:12:833 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (fb301893ad4f5c6abd1726c570c2e2e5)] -> name: Password]
+2021-12-15 17:12:934 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (fb301893ad4f5c6abd1726c570c2e2e5)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:965 INFO  BuildYourOwnComputerPage :65 - verify error message  [[ChromeDriver: chrome on WINDOWS (fb301893ad4f5c6abd1726c570c2e2e5)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-15 17:12:31 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:545 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (773000ce5aa9887ef087ed0ce15874a6)] -> link text: Log in]
+2021-12-15 17:12:691 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (773000ce5aa9887ef087ed0ce15874a6)] -> id: Email]
+2021-12-15 17:12:826 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (773000ce5aa9887ef087ed0ce15874a6)] -> name: Password]
+2021-12-15 17:12:851 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (773000ce5aa9887ef087ed0ce15874a6)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:878 INFO  BuildYourOwnComputerPage :65 - verify error message  [[ChromeDriver: chrome on WINDOWS (773000ce5aa9887ef087ed0ce15874a6)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-15 17:12:802 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:669 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (4b270e592c58c160f36565e7385b9651)] -> link text: Log in]
+2021-12-15 17:12:767 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (4b270e592c58c160f36565e7385b9651)] -> id: Email]
+2021-12-15 17:12:874 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (4b270e592c58c160f36565e7385b9651)] -> name: Password]
+2021-12-15 17:12:920 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (4b270e592c58c160f36565e7385b9651)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:944 INFO  BuildYourOwnComputerPage :65 - verify error message  [[ChromeDriver: chrome on WINDOWS (4b270e592c58c160f36565e7385b9651)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-15 17:12:990 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:811 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:309 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:953 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:149 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:285 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:125 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:242 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:157 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:219 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:591 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (3da2ab3a32e5e9dfe0b913e177694b49)] -> link text: Log in]
+2021-12-15 17:12:637 INFO  BuildYourOwnComputerPage :35 - click on cartButton [[ChromeDriver: chrome on WINDOWS (3da2ab3a32e5e9dfe0b913e177694b49)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-15 17:12:341 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:636 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (2363f5cd4f271ceac1f389771d3b6ebc)] -> link text: Log in]
+2021-12-15 17:12:821 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (2363f5cd4f271ceac1f389771d3b6ebc)] -> id: Email]
+2021-12-15 17:12:938 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (2363f5cd4f271ceac1f389771d3b6ebc)] -> name: Password]
+2021-12-15 17:12:107 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (2363f5cd4f271ceac1f389771d3b6ebc)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:410 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:85 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:617 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (0ad2115b44573ddf3e2b275f5916a1bd)] -> link text: Log in]
+2021-12-15 17:12:760 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (0ad2115b44573ddf3e2b275f5916a1bd)] -> id: Email]
+2021-12-15 17:12:871 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (0ad2115b44573ddf3e2b275f5916a1bd)] -> name: Password]
+2021-12-15 17:12:476 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (0ad2115b44573ddf3e2b275f5916a1bd)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:602 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:277 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (b5de7827b965337b35e5f9c49e3cbe3d)] -> link text: Log in]
+2021-12-15 17:12:409 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (b5de7827b965337b35e5f9c49e3cbe3d)] -> id: Email]
+2021-12-15 17:12:528 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (b5de7827b965337b35e5f9c49e3cbe3d)] -> name: Password]
+2021-12-15 17:12:593 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (b5de7827b965337b35e5f9c49e3cbe3d)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:112 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:831 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (63cc6b01ccc6a6ff676d22bf552fdcc2)] -> link text: Log in]
+2021-12-15 17:12:865 INFO  BuildYourOwnComputerPage :35 - click on cartButton [[ChromeDriver: chrome on WINDOWS (63cc6b01ccc6a6ff676d22bf552fdcc2)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-15 17:12:323 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:904 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (a419285456321b1d90875928111d748e)] -> link text: Log in]
+2021-12-15 17:12:939 INFO  BuildYourOwnComputerPage :35 - click on cartButton [[ChromeDriver: chrome on WINDOWS (a419285456321b1d90875928111d748e)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-15 17:12:882 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:679 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (2753aca6af8337e8997f10b062f95544)] -> link text: Log in]
+2021-12-15 17:12:858 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (2753aca6af8337e8997f10b062f95544)] -> id: Email]
+2021-12-15 17:12:964 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (2753aca6af8337e8997f10b062f95544)] -> name: Password]
+2021-12-15 17:12:419 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (2753aca6af8337e8997f10b062f95544)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:646 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:452 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (c333b15dd65e6b7b7fecb8066cfb0814)] -> link text: Log in]
+2021-12-15 17:12:603 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (c333b15dd65e6b7b7fecb8066cfb0814)] -> id: Email]
+2021-12-15 17:12:724 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (c333b15dd65e6b7b7fecb8066cfb0814)] -> name: Password]
+2021-12-15 17:12:768 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (c333b15dd65e6b7b7fecb8066cfb0814)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:672 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:415 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (62dae20952b8f4a029a64eeeb5ba10d2)] -> link text: Log in]
+2021-12-15 17:12:554 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (62dae20952b8f4a029a64eeeb5ba10d2)] -> id: Email]
+2021-12-15 17:12:662 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (62dae20952b8f4a029a64eeeb5ba10d2)] -> name: Password]
+2021-12-15 17:12:772 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (62dae20952b8f4a029a64eeeb5ba10d2)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:796 INFO  BuildYourOwnComputerPage :65 - verify error message  [[ChromeDriver: chrome on WINDOWS (62dae20952b8f4a029a64eeeb5ba10d2)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-15 17:12:666 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:474 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (a54bbdbb5b838122b1bc80fdd357cb47)] -> link text: Log in]
+2021-12-15 17:12:611 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (a54bbdbb5b838122b1bc80fdd357cb47)] -> id: Email]
+2021-12-15 17:12:725 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (a54bbdbb5b838122b1bc80fdd357cb47)] -> name: Password]
+2021-12-15 17:12:780 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (a54bbdbb5b838122b1bc80fdd357cb47)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:809 INFO  BuildYourOwnComputerPage :65 - verify error message  [[ChromeDriver: chrome on WINDOWS (a54bbdbb5b838122b1bc80fdd357cb47)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-15 17:12:766 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-15 17:12:279 INFO  BuildYourOwnComputerPage :36 - click on cartButton [[ChromeDriver: chrome on WINDOWS (3fbc4dfdb4a398a37b68f200172275a4)] -> link text: Log in]
+2021-12-15 17:12:413 INFO  BuildYourOwnComputerPage :44 - Enter email to email field  [[ChromeDriver: chrome on WINDOWS (3fbc4dfdb4a398a37b68f200172275a4)] -> id: Email]
+2021-12-15 17:12:537 INFO  BuildYourOwnComputerPage :51 - Enter password[[ChromeDriver: chrome on WINDOWS (3fbc4dfdb4a398a37b68f200172275a4)] -> name: Password]
+2021-12-15 17:12:44 INFO  BuildYourOwnComputerPage :58 - click on[[ChromeDriver: chrome on WINDOWS (3fbc4dfdb4a398a37b68f200172275a4)] -> xpath: //button[contains(text(),'Log in')]]
+2021-12-15 17:12:78 INFO  BuildYourOwnComputerPage :65 - verify error message  [[ChromeDriver: chrome on WINDOWS (3fbc4dfdb4a398a37b68f200172275a4)] -> xpath: //div[@class='message-error validation-summary-errors']]

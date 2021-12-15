@@ -9,9 +9,6 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
 
-/**
- * By Nidhi Patel
- **/
 public class ComputerPagesteps {
     @Given("^I am on Home page$")
     public void iAmOnHomePage() {

@@ -9,7 +9,6 @@ Feature: Computer Page Test
 
 
   Scenario: As a user I should navigate to Computer page Successfully.
-
     Then  I should able to verify "Computers" text
 
   Scenario: As a user I should navigate to Desktops page Successfully.

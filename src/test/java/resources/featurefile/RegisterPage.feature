@@ -25,14 +25,14 @@ Feature: Register Test
   Scenario: As a user I should create Account Successfully
     When  I click on register link
     And I Select gender "Female"
-    And I Enter firstname "nidhi"
+    And I Enter firstname "Dimple"
     And I Enter lastname "patel"
-    And I Select day "3"
+    And I Select day "5"
     And I Select month "July"
-    And I Select year "1986"
-    And I Enter email "roma.patel1@yahoo.com"
-    And I Enter password "java1234"
-    And I Enter  confirm  password "java1234"
+    And I Select year "1983"
+    And I Enter email "dpatel123@yahoo.com"
+    And I Enter password "Java12345!"
+    And I Enter  confirm  password "Java12345!"
     And I Click On REGISTER button
     Then I should be able to verify message "Your registration completed"
 

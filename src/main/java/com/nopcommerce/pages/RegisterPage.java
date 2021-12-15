@@ -10,9 +10,7 @@ import org.testng.Reporter;
 
 import java.util.List;
 
-/**
- * By Nidhi Patel
- **/
+
 public class RegisterPage extends Utility {
     private static final Logger log = LogManager.getLogger(BuildYourOwnComputerPage.class.getName());
 
@@ -83,7 +81,6 @@ public class RegisterPage extends Utility {
         for (WebElement message : fieldValidationErrors) {
             if (message.getAttribute("data-valmsg-for").equals(fieldName)) {
                 validationMessage = message.getText();
-//                Reporter.log("Click on 'REGISTER' button" + "<br>");
                 break;
             }
             log.info("verify Required Message" + fieldValidationErrors.toString());
@@ -92,7 +89,6 @@ public class RegisterPage extends Utility {
         return validationMessage;
     }
     public String verifyRegisterLinkTxt(){
-//        getTextFromElement(registerTxt);
         log.info("verify register link" + registerTxt.toString());
 
         return registerTxt.getText();
@@ -101,7 +97,6 @@ public class RegisterPage extends Utility {
         Reporter.log("Select Female " +female + "<br>");
         clickOnElement(female);
         log.info("Select Female " + female.toString());
-
     }
     public void setFirstname(String name){
         Reporter.log("Enter firstname " + name + " to firstname field" + Firstname.toString() + "<br>");
@@ -184,19 +179,17 @@ public class RegisterPage extends Utility {
 
         Reporter.log("verify Your registration completed" +YourRegisterCompleteMessageLink.toString() + "<br>");
         getTextFromElement(YourRegisterCompleteMessageLink);
-
         log.info("verify Your registration completed "+YourRegisterCompleteMessageLink.toString());
-
         return YourRegisterCompleteMessageLink .getText();
 
-        // verifyText("Your registration completed",registerTxt,"Your registration completed");
     }
 
-    public void setContinueButtonLink(){
+    public void setContinueButtonLink()
+    {
         Reporter.log("click on continue button." +ContinueButtonLink + "<br>");
         clickOnElement(ContinueButtonLink);
     }
-    }
+}
 
 
 

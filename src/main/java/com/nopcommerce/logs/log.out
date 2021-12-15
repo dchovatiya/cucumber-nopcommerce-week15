@@ -113,3 +113,4 @@
 2021-12-15 12:12:703 INFO  ManageDriver :32 - Launching Chrome Browser
 2021-12-15 12:12:218 INFO  BuildYourOwnComputerPage :43 - click on cartButton [[ChromeDriver: chrome on WINDOWS (f7a1150e69fcb83a25fa009365149242)] -> link text: Log in]
 2021-12-15 12:12:237 INFO  BuildYourOwnComputerPage :38 - click on cartButton [[ChromeDriver: chrome on WINDOWS (f7a1150e69fcb83a25fa009365149242)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-15 17:12:290 INFO  ManageDriver :32 - Launching Chrome Browser

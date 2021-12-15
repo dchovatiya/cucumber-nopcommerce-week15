@@ -8,15 +8,12 @@ import cucumber.api.java.en.When;
 import org.junit.Assert;
 
 
-/**
- * By Nidhi Patel
- **/
-public class RegisterPageSteps {
-//    SoftAssert softAssert = new SoftAssert();
+
+public class RegisterPageSteps
+{
     String field;
     @When("^I click on register link$")
     public void iClickOnRegisterLink() {
-//        new RegisterPage().setRegisterButton();
         new HomePage().clickOnRegisterLink();
     }
 
@@ -25,7 +22,7 @@ public class RegisterPageSteps {
     }
 
     @And("^I should be able to see \"([^\"]*)\" page title$")
-    public void iShouldBeAbleToSeePageTitle(String expected) throws Throwable {
+    public void iShouldBeAbleToSeePageTitle(String expected)  {
         Assert.assertEquals(expected, new RegisterPage().verifyRegisterLinkTxt());
     }
 
@@ -36,7 +33,8 @@ public class RegisterPageSteps {
 
 
     @When("^I didn't enter value in field \"([^\"]*)\"$")
-    public void iDidnTEnterValueInField(String fieldName) throws Throwable {
+    public void iDidnTEnterValueInField(String fieldName)
+    {
         new RegisterPage().verifyRequiredMessage(fieldName);
     }
 
@@ -50,89 +48,85 @@ public class RegisterPageSteps {
     @When("^I didn't enter value in field \"([^\"]*)\" and \"([^\"]*)\"$")
     public void iDidnTEnterValueInFieldAnd(String actual,String fieldName)  {
         Assert.assertEquals(actual, new RegisterPage().verifyRequiredMessage(fieldName));
-       /* softAssert.assertEquals("First name is required.",
-                registerPage.getValidationErrorMessageForField("FirstName"),
-                "FirstName field error message not displayed");*/
+
 
     }
 
     @And("^I should able to see message \"([^\"]*)\"$")
-    public void iShouldAbleToSeeMessage(String actual) throws Throwable {
+    public void iShouldAbleToSeeMessage(String actual) {
         Assert.assertEquals(actual, new RegisterPage().verifyRequiredMessage(field));
 
     }
 
     @When("^I didn't enter First Name \"([^\"]*)\"$")
-    public void iDidnTEnterFirstName(String fname) throws Throwable {
+    public void iDidnTEnterFirstName(String fname)  {
         field=fname;
     }
 
     @When("^I didn't enter Last Name \"([^\"]*)\"$")
-    public void iDidnTEnterLastName(String lname) throws Throwable {
+    public void iDidnTEnterLastName(String lname)  {
         field=lname;
     }
 
     @When("^I didn't enter Email \"([^\"]*)\"$")
-    public void iDidnTEnterEmail(String email) throws Throwable {
+    public void iDidnTEnterEmail(String email)  {
         field=email;
     }
 
     @When("^I didn't enter Password \"([^\"]*)\"$")
-    public void iDidnTEnterPassword(String pass) throws Throwable {
+    public void iDidnTEnterPassword(String pass)  {
         field=pass;
     }
 
     @When("^I didn't enter Confirm Password \"([^\"]*)\"$")
-    public void iDidnTEnterConfirmPassword(String cpass) throws Throwable {
-field=cpass;
+    public void iDidnTEnterConfirmPassword(String cpass)  {
+        field=cpass;
     }
 
-   /* @When("^I click on Register Link$")
-    public void iClickOnRegisterLink() {
-    }
-*/
     @And("^I Select gender \"([^\"]*)\"$")
-    public void iSelectGender(String arg0) throws Throwable {
+    public void iSelectGender()  {
         new RegisterPage().setFemale();
     }
 
     @And("^I Enter firstname \"([^\"]*)\"$")
-    public void iEnterFirstname(String fname) throws Throwable {
-        new RegisterPage().setFirstname(fname);
+    public void iEnterFirstname(String firstName)  {
+        new RegisterPage().setFirstname(firstName);
     }
 
     @And("^I Enter lastname \"([^\"]*)\"$")
-    public void iEnterLastname(String lname) throws Throwable {
-new RegisterPage().setLastname(lname);
+    public void iEnterLastname(String lastName) {
+        new RegisterPage().setLastname(lastName);
     }
 
     @And("^I Select day \"([^\"]*)\"$")
-    public void iSelectDay(String dob) throws Throwable {
-new RegisterPage().setDateOfBirth(dob);
+    public void iSelectDay(String dob)
+    {
+        new RegisterPage().setDateOfBirth(dob);
     }
 
     @And("^I Select month \"([^\"]*)\"$")
-    public void iSelectMonth(String dom) throws Throwable {
-new RegisterPage().setMonthOfBirth(dom);
+    public void iSelectMonth(String dom)  {
+        new RegisterPage().setMonthOfBirth(dom);
     }
 
     @And("^I Select year \"([^\"]*)\"$")
-    public void iSelectYear(String doy) throws Throwable {
-new RegisterPage().setYearOfBirth(doy);
+    public void iSelectYear(String doy)  {
+        new RegisterPage().setYearOfBirth(doy);
     }
 
     @And("^I Enter email \"([^\"]*)\"$")
-    public void iEnterEmail(String email) throws Throwable {
-new RegisterPage().setEmail();
+    public void iEnterEmail(String email)  {
+        new RegisterPage().setEmail();
     }
 
     @And("^I Enter password \"([^\"]*)\"$")
-    public void iEnterPassword(String password) throws Throwable {
-new RegisterPage().setPassword(password);
+    public void iEnterPassword(String password)  {
+        new RegisterPage().setPassword(password);
     }
 
     @And("^I Enter  confirm  password \"([^\"]*)\"$")
-    public void iEnterConfirmPassword(String conPass) throws Throwable {
+    public void iEnterConfirmPassword(String conPass)
+    {
         new RegisterPage().setPassword(conPass);
     }
 
@@ -143,8 +137,8 @@ new RegisterPage().setPassword(password);
     }
 
     @Then("^I should be able to verify message \"([^\"]*)\"$")
-    public void iShouldBeAbleToVerifyMessage(String expected) throws Throwable {
+    public void iShouldBeAbleToVerifyMessage(String expected)
+    {
         Assert.assertEquals(expected, new RegisterPage().verifyYourRegisterCompleteMessage());
-
     }
 }

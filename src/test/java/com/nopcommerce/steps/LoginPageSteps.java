@@ -8,9 +8,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
 
-/**
- * By Nidhi Patel
- **/
+
 public class LoginPageSteps {
     @Given("^I am on homepage$")
     public void iAmOnHomepage() {
@@ -23,9 +21,8 @@ public class LoginPageSteps {
     }
 
     @Then("^I should able to see \"([^\"]*)\"$")
-    public void iShouldAbleToSee(String expexted) throws Throwable {
-//        new LoginPage().verifyWelcomeText();
-        Assert.assertEquals("welcome message not displayed", expexted, new LoginPage().verifyWelcomeText());
+    public void iShouldAbleToSee(String expected)  {
+        Assert.assertEquals("welcome message not displayed", expected, new LoginPage().verifyWelcomeText());
     }
 
     @And("^I enter password \"([^\"]*)\"$")
@@ -44,15 +41,15 @@ public class LoginPageSteps {
     }
 
     @And("^I should be able to see \"([^\"]*)\" option$")
-    public void iShouldBeAbleToSeeOption(String expectedText) throws Throwable {
-
+    public void iShouldBeAbleToSeeOption(String expectedText)
+    {
         Assert.assertEquals(expectedText,new HomePage().verifyLogoutLink());
     }
 
 
 
     @And("^I enter email \"([^\"]*)\"$")
-    public void iEnterEmail(String email) throws Throwable {
+    public void iEnterEmail(String email)  {
         new LoginPage().enterEmailId(email);
     }
 

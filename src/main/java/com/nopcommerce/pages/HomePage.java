@@ -8,9 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
 
-/**
- * By Nidhi Patel
- **/
+
 
 public class HomePage extends Utility {
     private static final Logger log = LogManager.getLogger(BuildYourOwnComputerPage.class.getName());
@@ -32,11 +30,6 @@ public class HomePage extends Utility {
     @FindBy(xpath = "//a[contains(text(),'Log out')]")
     WebElement logOut;
 
-
-
-    //   By loginLink = By.linkText("Log in");
-  //  By registerLink = By.linkText("Register");
-
     public void clickOnLoginLink(){
         Reporter.log("click on loginlink" +loginLink + "<br>");
         clickOnElement(loginLink);
@@ -50,9 +43,7 @@ public class HomePage extends Utility {
         log.info("click on registerlink " + registerLink.toString());
 
     }
-    public void verifyLogo(){
 
-    }
     public void clickOnMyAccount(){
         Reporter.log("click on myAccount" +myAccount + "<br>");
         clickOnElement(myAccount);
@@ -67,8 +58,6 @@ public class HomePage extends Utility {
     }
     public String verifyLogoutLink(){
         Reporter.log("click on logOut" +logOut + "<br>");
-//        getTextFromElement(logOut);
-//        log.info("click on logOut" + logOut.toString());
 
         return logOut.getText();
     }

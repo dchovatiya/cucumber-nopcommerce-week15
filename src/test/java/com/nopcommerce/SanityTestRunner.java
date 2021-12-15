@@ -23,7 +23,7 @@ public class SanityTestRunner {
         String reportConfigPath = projectPath + "/src/test/java/resources/extentreport/extent-config.xml";
         Reporter.loadXMLConfig(reportConfigPath);
 //        Reporter.setSystemInfo("User Name", System.getProperty("user.name"));
-        Reporter.setSystemInfo("User Name","Nidhi Patel");
+        Reporter.setSystemInfo("User Name","Dimple Patel");
         Reporter.setSystemInfo("Time Zone", System.getProperty("user.timezone"));
         Reporter.setSystemInfo("Machine", "Windows 10" + "64 Bit");
         Reporter.setSystemInfo("Selenium", "3.141.59");

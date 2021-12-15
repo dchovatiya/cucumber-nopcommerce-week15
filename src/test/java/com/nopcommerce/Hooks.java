@@ -10,9 +10,7 @@ import cucumber.api.java.Before;
 import java.io.IOException;
 
 
-/**
- * By Nidhi Patel
- **/
+
 public class Hooks extends Utility {
 //({"@smoke","@sanity","@regression"})
     @Before

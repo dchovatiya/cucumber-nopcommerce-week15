@@ -9,8 +9,8 @@ Feature: Login Test
   Scenario: User Should LogOut SuccessFully
     Given I am on homepage
     When I click on login link
-    And I enter email "nidhilakhani2598@gmail.com"
-    And I enter password "Nidhi123"
+    And I enter email "dpatel123@yahoo.com"
+    And I enter password "Java12345!"
     And I click on login button
     Then I should login successfully
     And I should be able to see "Log out" option
@@ -18,8 +18,8 @@ Feature: Login Test
   Scenario: verify That User Should LogInSuccessFully WithValid Credentials
     Given I am on homepage
     When I click on login link
-    And I enter email "nidhilakhani2598@gmail.com"
-    And I enter password "Nidhi123"
+    And I enter email "dpatel123@yahoo.com"
+    And I enter password "Java12345!"
     And I click on login button
   @regression
   Scenario Outline: Verify the error message with invalid credentials

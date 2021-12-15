@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e20fb089-19d1-44b1-8c31-f11e7a83a3f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_login_successfully_with_valid_credentials20211213113426.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214015234.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214015239.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214015244.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214015249.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214015254.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032319.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032344.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032349.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032354.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032531.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032535.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032552.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032934.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032939.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032944.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032949.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214032955.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214034531.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214034536.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/User_should_not_be_able_to_register_with_any_empty_mandatory_field20211214034608.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/Verify_the_error_message_with_invalid_credentials20211214114226.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/Verify_the_error_message_with_invalid_credentials20211214114232.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/demo/screenshots/Verify_the_error_message_with_invalid_credentials20211214114237.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/logs/log.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/logs/log.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/BuildYourOwnComputerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/BuildYourOwnComputerPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/ComputerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/ComputerPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/DesktopsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/DesktopsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nopcommerce/pages/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/RegressionTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/RegressionTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/SanityTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/SanityTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/SmokeTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/SmokeTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/ComputerPagesteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/ComputerPagesteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/LoginPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/LoginPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/RegisterPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nopcommerce/steps/RegisterPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/ComputerPage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/ComputerPage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/RegisterPage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/RegisterPage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Extent_Reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Extent_Reports/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/RunCuke/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/RunCuke/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/BuildYourOwnComputerPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/BuildYourOwnComputerPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/ComputerPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/ComputerPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/DesktopsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/DesktopsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/RegisterPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nopcommerce/pages/RegisterPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report/cucumber.html/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report/cucumber.html/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/steps/ComputerPagesteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/steps/ComputerPagesteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/steps/LoginPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/steps/LoginPageSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/steps/RegisterPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nopcommerce/steps/RegisterPageSteps.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22KMkItTp9kyNx5rvzOP6KcpA7C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cucumber-home-work-week-15-OrangeHRM" />
+  </component>
+  <component name="RunManager" selected="JUnit.RegressionTestRunner">
+    <configuration name="RegressionTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber-homework-week-15-nopcommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.RegressionTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SanityTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber-homework-week-15-nopcommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.SanityTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber-homework-week-15-nopcommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.SmokeTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber-homework-week-15-nopcommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.setUP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber-homework-week-15-nopcommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.TestRunner" />
+      <option name="METHOD_NAME" value="setUP" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RegressionTestRunner" />
+        <item itemvalue="JUnit.SmokeTestRunner" />
+        <item itemvalue="JUnit.SanityTestRunner" />
+        <item itemvalue="JUnit.TestRunner.setUP" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e20fb089-19d1-44b1-8c31-f11e7a83a3f9" name="Changes" comment="" />
+      <created>1639581968164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639581968164</updated>
+    </task>
+    <servers />
+  </component>
+</project>
